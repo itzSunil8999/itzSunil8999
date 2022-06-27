@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itzSunil8999
+- 👋 Hi, I’m Sunil Dhodmani
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on ...
