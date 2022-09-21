@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sunil Dhodmani
 - 👀 I’m interested in Android
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently working with Android
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - 
 
